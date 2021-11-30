@@ -1,0 +1,6 @@
+C:\Users\shavi\Desktop\trad\trad\bin\Debug\trad.exe
+C:\Users\shavi\Desktop\trad\trad\bin\Debug\trad.pdb
+C:\Users\shavi\Desktop\trad\trad\obj\Debug\trad.csprojAssemblyReference.cache
+C:\Users\shavi\Desktop\trad\trad\obj\Debug\trad.csproj.CoreCompileInputs.cache
+C:\Users\shavi\Desktop\trad\trad\obj\Debug\trad.exe
+C:\Users\shavi\Desktop\trad\trad\obj\Debug\trad.pdb
